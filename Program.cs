@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Mana_istamle
+namespace Sample10
 {
     class Program
     {
