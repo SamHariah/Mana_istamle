@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mana_istamle", "Mana_istamle.csproj", "{27962BA4-F5F5-443F-A900-E74B9BEC5A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27962BA4-F5F5-443F-A900-E74B9BEC5A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27962BA4-F5F5-443F-A900-E74B9BEC5A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27962BA4-F5F5-443F-A900-E74B9BEC5A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27962BA4-F5F5-443F-A900-E74B9BEC5A61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C91B9F28-4881-4920-96AF-9D0E944AD881}
+	EndGlobalSection
+EndGlobal
